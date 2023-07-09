@@ -1,0 +1,49 @@
+.card__progress {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.card__progress--item {
+  min-height: 230px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card__progress--title {
+  padding-top: 20px;
+  height: 55px;
+  font-weight: 600;
+}
+
+.degree__box {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  border: 1px #d0d0d0 solid;
+  padding: 30px 60px;
+  border-radius: 20px;
+  margin: 30px;
+}
+
+.degree__icon {
+  width: 70px;
+}
+
+.degree__title {
+  font-size: 20px;
+  text-align: center;
+  font-weight: 600;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.degree__resume {
+  font-size: 13px;
+  line-height: 18px;
+  text-align: center;
+  margin: 0 0;
+}
